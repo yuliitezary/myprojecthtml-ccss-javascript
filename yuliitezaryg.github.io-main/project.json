@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "In this version, I use 'Js\" to add some animation to the code as if someone is typing the code to show time and greet.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.21568627450980393 0.23529411764705882 0.2823529411764706"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Abstract" ],
+	"title" : "Code with Animation",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1938225265"
+}

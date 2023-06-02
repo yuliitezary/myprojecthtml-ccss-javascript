@@ -1,0 +1,212 @@
+Uri: https://5opka.ru/
+File Name: C:\Downloaded Web Sites\5opka.ru\index.htm
+Content Type: text/html
+
+Uri: https://5opka.ru/assets/css/styles.css
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://5opka.ru/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://5opka.ru/assets/img/about-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\about-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home1-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home1-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home2-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home2-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home3-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home3-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home4-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home4-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home5-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home5-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/home6-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\home6-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/img/nav-img.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\img\nav-img.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/js/main.js
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://5opka.ru/assets/js/scrollreveal.min.js
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\js\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://5opka.ru/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://5opka.ru/assets/links/2.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\2.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/instagram.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\instagram.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/telegram.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\telegram.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/tiktok.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\tiktok.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/twitch.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\twitch.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/vk.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\vk.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/vkgroup.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\vkgroup.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/ytfugatv.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\ytfugatv.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/links/ytpyatorka.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\links\ytpyatorka.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/1.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\1.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/2.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\2.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/3.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\3.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/4.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\4.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/5.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\5.png
+Content Type: image/png
+
+Uri: https://5opka.ru/assets/narezki/6.png
+File Name: C:\Downloaded Web Sites\5opka.ru\assets\narezki\6.png
+Content Type: image/png
+
+Uri: https://5opka.ru/favicon.ico
+File Name: C:\Downloaded Web Sites\5opka.ru\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://5opka.ru/links
+File Name: C:\Downloaded Web Sites\5opka.ru\links.html
+Content Type: text/html
+
+Uri: https://avatars.steamstatic.com/72afd5a29d3c0a3e5a6e5cbb7cce8e598c33b2af_full.jpg
+File Name: C:\Downloaded Web Sites\5opka.ru\72afd5a29d3c0a3e5a6e5cbb7cce8e598c33b2af_full.jpg
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/5282321/aa4d12c5.a.17864621-1/m1000x1000
+File Name: C:\Downloaded Web Sites\5opka.ru\get-music-content\5282321\aa4d12c5.a.17864621-1\m1000x1000
+Content Type: image/jpeg
+
+Uri: https://avatars.yandex.net/get-music-content/5531900/14c73882.a.20262345-1/m1000x1000
+File Name: C:\Downloaded Web Sites\5opka.ru\get-music-content\5531900\14c73882.a.20262345-1\m1000x1000
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/887742815847714896/906959525767151616/-2.png
+File Name: C:\Downloaded Web Sites\5opka.ru\attachments\887742815847714896\906959525767151616\-2.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/boxicons@latest/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\5opka.ru\npm\boxicons@latest\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;900&display=swap
+File Name: C:\Downloaded Web Sites\5opka.ru\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap
+File Name: C:\Downloaded Web Sites\5opka.ru\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\5opka.ru\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c4/3b/e0/c43be091-f89e-f7d6-ae7d-77ed58ea5632/cover.jpg/500x500bb.jpeg
+File Name: C:\Downloaded Web Sites\5opka.ru\image\thumb\Music124\v4\c4\3b\e0\c43be091-f89e-f7d6-ae7d-77ed58ea5632\cover.jpg\500x500bb.jpeg
+Content Type: image/jpeg
+
+Uri: https://sun1-88.userapi.com/impg/fwFr0Ejiwf3diXjr3jpgMgyNJTmv0Yo31Zxpbg/cVyLDwlZxu4.jpg?size=520x0&quality=95&sign=4e290e71c46a1a2f8b95edd55c627d2d
+File Name: C:\Downloaded Web Sites\5opka.ru\impg\fwFr0Ejiwf3diXjr3jpgMgyNJTmv0Yo31Zxpbg\cVyLDwlZxu4.jpg
+Content Type: image/jpeg
+
+Uri: https://sun9-50.userapi.com/s/v1/ig1/286fE9IPPNLZvcyhMZY_O4gK-uJNLuycnu3dGfZepirj003WdtgUKrCclv4-p6wwXtPiSqF-.jpg?size=50x50&quality=96&crop=0,0,980,980&ava=1
+File Name: C:\Downloaded Web Sites\5opka.ru\s\v1\ig1\286fE9IPPNLZvcyhMZY_O4gK-uJNLuycnu3dGfZepirj003WdtgUKrCclv4-p6wwXtPiSqF-.jpg
+Content Type: image/jpeg
+

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="code.css" id="css">
+    <body>
+        <div id="logo">
+            <div id="windows" class="center">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                    <path d="M0 93.7l183.6-25.3v177.4H0V93.7zm0 324.6l183.6 25.3V268.4H0v149.9zm203.8 28L448 480V268.4H203.8v177.9zm0-380.6v180.1H448V32L203.8 65.7z"/>
+                </svg>
+            </div>
+            
+            <div id="code"><span id="codetype"></span><span class="blink">|</span></div>
+        </div>
+        
+
+        <div id="detail">Made by <span id="name">Jack</span> with 
+            <div id="heart">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                    <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/>
+                </svg>
+            </div>
+            in <span id="adress">ShenZhen</span> using
+            <div id="color"> <span class="blue">One</span><span class="magenta">dark</span><span class="green">.color</span></div>
+        </div>
+
+        <script>
+            
+            let i = 0;
+            let greeting='"hello world!"';
+            let txt = 'printf(<span class="green">'+greeting+'</span>);';
+            let rightTxt = '<span class="yellow">console</span>.<span class="blue">log</span>(<span class="red">time</span>);';
+            let typeSpeed = 100;
+            let cleanSpeed = 40;
+            let content= document.getElementById('codetype');
+            let inElement = false;
+
+            function typeWriter() {
+
+                if(txt.charAt(i)=='<') inElement=true;
+                else if(txt.charAt(i)=='>') inElement=false;
+
+                if(i<txt.length&&inElement==true){
+                    i++;
+                    setTimeout(typeWriter, 0);
+                }
+                else if (i < txt.length&&inElement==false) {
+                    content.innerHTML = txt.slice(0,i+1);
+                    i++;
+                    setTimeout(typeWriter, typeSpeed);
+                }
+                else setTimeout(typeClean,5000);  
+            }
+
+            
+            function typeClean(){
+                if(txt.charAt(i)=='>') inElement=true;
+                else if(txt.charAt(i)=='<') inElement=false;
+
+                if(i>0&&inElement==true){
+                    i--;
+                    setTimeout(typeClean,0);
+                }
+                else if(i>0&&inElement==false){
+                    content.innerHTML = txt.slice(0,i-1);
+                    i--;
+                    setTimeout(typeClean,cleanSpeed);
+                }
+                else setTimeout(typeWriterR,1000);
+            }
+            
+            function typeWriterR() {
+                if(rightTxt.charAt(i)=='<') inElement=true;
+                else if(rightTxt.charAt(i)=='>') inElement=false;
+
+                if (i < rightTxt.length&&inElement==false) {
+                    content.innerHTML = rightTxt.slice(0,i+1);
+                    i++;
+                    setTimeout(typeWriterR, typeSpeed);
+                  }
+                else if(i<rightTxt.length&&inElement==true){
+                    i++;
+                    setTimeout(typeWriterR,0);
+                }
+                else {
+                    i=0;
+                    setTimeout(showTime,1000);  
+                }
+            }
+            function showTime(){
+                let now=new Date();
+                let hour=now.getHours();
+                let minute= now.getMinutes();
+                switch(hour){
+                    
+                }
+                if(hour>=6&&hour<=9) greeting="Hello World!";
+                else if(hour<12&&hour>=10) greeting='Good morning!';
+                else if(hour==12) greeting="Don't forget to have lunch!";
+                else if(hour<=18&&hour>12) greeting='Good afternoon!';
+                else if(hour>18&&hour<22) greeting='Good evening!';
+                else greeting='Good night!';
+                if(minute<10) txt='<span class="grey">TIME IS </span>'+'<span class="green">'+hour+":0"+minute+'</span> <span class="grey">NOW </span>'+'<span class="blue">'+greeting+'</span>';
+                else txt='<span class="grey">TIME IS </span>'+'<span class="green">'+hour+":"+minute+'</span> <span class="grey">NOW! </span>'+'<span class="blue">'+greeting+'</span>';
+                setTimeout(typeWriter,1000);
+            }
+            
+            typeWriter();
+            </script>
+        
+    </body>
+</html>
